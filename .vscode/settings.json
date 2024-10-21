@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/8ca44969-440b-40a6-ab91-2c16bfb56815/resourceGroups/CSC227_group/providers/Microsoft.Web/sites/azure-demo-crparrott055",
+    "appService.deploySubpath": "."
+}
