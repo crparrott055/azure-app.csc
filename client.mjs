@@ -5,6 +5,7 @@ var cheesesFound;
 var noOfCheeses;
 var gameHour;
 
+
 let hostAddress = "https://azure-demo-crparrott055.azurewebsites.net/";
 
 let startUrl = hostAddress + "getstart.json";
